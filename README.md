@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg" alt="Home Page" height="30px"> ##Nike Clone
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg" alt="Home Page" height="30px"> Nike Clone
 
 Welcome to the **Nike Clone** project! This is a front-end replica of the Nike website, built using **React** and **Tailwind CSS** with **Vite** as the build tool.
 
@@ -96,4 +96,4 @@ This project is licensed under the MIT License.
 ### 📧 Contact
 
 - **Email**: [thallajayanth12@gmail.com](mailto:thallajayanth12@gmail.com)
-- **GitHub**: [@jayanth thalla](https://github.com/jayanththalla)
+- **GitHub**: [@jayanththalla](https://github.com/jayanththalla)
